@@ -1,18 +1,18 @@
 {
-  "name": "@venomswap/lib",
+  "name": "@howlswap/lib",
   "version": "1.0.0",
   "description": "📖 Solidity libraries that are shared across Venomswap contracts",
   "files": [
     "contracts",
     "!contracts/test"
   ],
-  "homepage": "https://venomdao.org",
+  "homepage": "https://howldao.org",
   "repository": {
-    "url": "https://github.com/VenomProtocol/venomswap-lib",
+    "url": "https://github.com/HowlProtocol/howlswap-lib",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/VenomProtocol/venomswap-lib/issues"
+    "url": "https://github.com/HowlProtocol/howlswap-lib/issues"
   },
   "engines": {
     "node": ">=10"
