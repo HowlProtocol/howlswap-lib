@@ -1,10 +1,10 @@
 # uniswap-lib
 
-[![Tests](https://github.com/VenomProtocol/venomswap-lib/workflows/Tests/badge.svg)](https://github.com/VenomProtocol/venomswap-lib/actions?query=workflow%3ATests)
-[![Static Analysis](https://github.com/VenomProtocol/venomswap-lib/workflows/Static%20Analysis/badge.svg)](https://github.com/VenomProtocol/venomswap-lib/actions?query=workflow%3A%22Static+Analysis%22)
-[![Lint](https://github.com/VenomProtocol/venomswap-lib/workflows/Lint/badge.svg)](https://github.com/VenomProtocol/venomswap-lib/actions?query=workflow%3ALint)
-[![Fuzz Testing](https://github.com/VenomProtocol/venomswap-lib/workflows/Fuzz%20Testing/badge.svg)](https://github.com/VenomProtocol/venomswap-lib/actions?query=workflow%3A%22Fuzz+Testing%22)
-[![npm](https://img.shields.io/npm/v/@venomswap/lib)](https://unpkg.com/@venomswap/lib@latest/)
+[![Tests](https://github.com/HowlProtocol/howlswap-lib/workflows/Tests/badge.svg)](https://github.com/HolwProtocol/howlswap-lib/actions?query=workflow%3ATests)
+[![Static Analysis](https://github.com/HowlProtocol/howlswap-lib/workflows/Static%20Analysis/badge.svg)](https://github.com/HowlProtocol/howlswap-lib/actions?query=workflow%3A%22Static+Analysis%22)
+[![Lint](https://github.com/HowlProtocol/howlswap-lib/workflows/Lint/badge.svg)](https://github.com/HowlProtocol/howlswap-lib/actions?query=workflow%3ALint)
+[![Fuzz Testing](https://github.com/HowlProtocol/howlswap-lib/workflows/Fuzz%20Testing/badge.svg)](https://github.com/HowlProtocol/howlswap-lib/actions?query=workflow%3A%22Fuzz+Testing%22)
+[![npm](https://img.shields.io/npm/v/@howlswap/lib)](https://unpkg.com/@howlswap/lib@latest/)
 
 Solidity libraries that are shared across Uniswap contracts. This package focuses on safety and execution gas efficiency.
 
