@@ -18,11 +18,11 @@ Run `yarn test` to execute the test suite.
 
 ## Usage
 
-Install this in another project via `yarn add @venomswap/lib`
+Install this in another project via `yarn add @howlswap/lib`
 
 Then import the contracts via:
 
 ```solidity
-import '@venomswap/lib/contracts/libraries/Babylonian.sol';
+import '@howlswap/lib/contracts/libraries/Babylonian.sol';
 
 ```
